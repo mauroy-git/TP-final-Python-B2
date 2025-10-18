@@ -1,5 +1,5 @@
 import random
-import display_grid  # on récupère input_rows et input_columns de la question 1
+import display_grid  
 
 # 🔸 Création de la grille initiale avec des cellules aléatoires (vivantes = 1, mortes = 0)
 def create_grid(rows, cols):
